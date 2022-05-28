@@ -1,0 +1,8 @@
+learning python
+
+name
+weather
+emojis
+while loop
+if loop
+if lower case change to ...
